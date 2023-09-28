@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Energy</string>
+    <string name="activity_consulta_descricao">Descrição</string>
+    <string name="activity_consulta_horario">Horário</string>
+    <string name="activity_consulta_frequencia">Frequência</string>
+    <string-array name="activity_consulta_frequencia_lista">
+        <item>Frequentemente</item>
+        <item>Raramente</item>
+        <item>Quase nunca</item>
+        <item>nunca</item>
+    </string-array>
+    <string name="activity_consulta_salvar">Salvar</string>
+    <string name="activity_consulta_dispositivo">Dispositivo</string>
+    <string-array name="activity_consulta_dispositivo_lista">
+        <item>Nenhum</item>
+    </string-array>
+</resources>
